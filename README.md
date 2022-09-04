@@ -9,7 +9,7 @@ Tendo a inserção dos automóveis nas vagas do devidos condôminos, assim como 
 
 ## Stack utilizada
 
-**Back-end:** Spring Boot, Spring JPA, Validation
+**Back-end:** Spring Boot, Spring JPA, Validation, PostgreSQL Driver
 
 **Banco de dados:** PostgreSQL
 

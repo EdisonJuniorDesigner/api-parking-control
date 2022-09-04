@@ -13,6 +13,10 @@ Tendo a inserção dos automóveis nas vagas do devidos condôminos, assim como 
 
 **Banco de dados:** PostgreSQL
 
+**Ferramentas:** pgAdmin4, SpringToolSuite4, Postman, Git
+
+**Sistema Operacional:** Linux Ubuntu 22.04
+
 
 
 
